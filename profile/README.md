@@ -24,7 +24,7 @@ Our consumer app takes a screenshot from any brokerage — Robinhood, Webull, Sc
 
 - **Built-in viral distribution** — every generated card carries a QR code and share link back to the app, so each user's post recruits the next user.
 - **Shipped production stack** — Next.js, Supabase, and edge inference running in production today, not a deck.
-- **Decentralized-compute alignment** — GPU inference runs on decentralized infrastructure (Nosana), keeping unit economics honest and censorship-resistant.
+- **Decentralized-compute alignment** — GPU inference runs on decentralized infrastructure, keeping unit economics honest and censorship-resistant.
 - **Solana-native payments** — x402 machine-payable endpoints make the extraction pipeline directly monetizable by agents and apps.
 
 ## Business development & partnerships
