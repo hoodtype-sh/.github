@@ -38,6 +38,6 @@ We're open to grant programs, compute partnerships, and ecosystem integrations.
 
 <div align="center">
 
-[Website](https://hoodtype.sh) · [Twitter @hoodtype](https://twitter.com/hoodtype) · [bd@hoodtype.sh](mailto:bd@hoodtype.sh)
+[Website](https://hoodtype.sh) · [bd@hoodtype.sh](mailto:bd@hoodtype.sh)
 
 </div>
