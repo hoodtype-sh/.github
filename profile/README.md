@@ -8,7 +8,6 @@
 
 [![Website](https://img.shields.io/badge/Website-hoodtype.sh-00C805?style=for-the-badge&labelColor=0A0A0A)](https://hoodtype.sh)
 [![Twitter](https://img.shields.io/badge/Twitter-%40hoodtype-0A0A0A?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/hoodtype)
-[![Powered by Nosana](https://img.shields.io/badge/Powered%20by-Nosana-00C805?style=for-the-badge&labelColor=0A0A0A)](https://nosana.io)
 
 </div>
 
